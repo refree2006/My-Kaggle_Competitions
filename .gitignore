@@ -1,0 +1,21 @@
+﻿# Jupyter
+.ipynb_checkpoints/
+
+# Python
+*.pyc
+__pycache__/
+
+# Envs
+.venv/
+venv/
+env/
+
+# Data & outputs
+data/
+models/
+outputs/
+output/
+
+# OS
+Thumbs.db
+.DS_Store
