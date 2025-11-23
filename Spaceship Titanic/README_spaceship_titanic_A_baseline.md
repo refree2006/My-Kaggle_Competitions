@@ -4,6 +4,7 @@
 > Kaggle Notebook: *(to be filled with your public notebook link)*
 
 本仓库目前实现了 **方案 A：极简基线**，目标是跑通从原始数据到 Kaggle 提交的完整流程，建立一个干净、可靠的起点，便于后续在方案上继续迭代。
+2025/11/23 score:0.79144，目前排名是1715/2391。
 
 ---
 
